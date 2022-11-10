@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NVVYHJKQ
 
 [Document2]
-DocumentPath=..\..\Circuit\keyMANDevices.PcbDoc
+DocumentPath=keyMANDevices.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CGUQRQVN
+DocumentUniqueId=LFDERMDN
 
 [Configuration1]
 Name=Sources

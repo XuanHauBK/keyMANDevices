@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VDD5V Pin=DIO2-2
+Removed Pin From Net: NetName=VDD5V Pin=U3-16
+Added Pin To Net: NetName=NetDIO2_2 Pin=DIO2-2
+Added Pin To Net: NetName=NetDIO2_2 Pin=U3-16
+Added Net: Name=NetDIO2_2
+Added Room: Name=keyMANDevices
