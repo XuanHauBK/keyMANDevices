@@ -3,6 +3,7 @@
 *.rar
 *build/
 
-*_Previews/
+*__Previews/
+*history/
 
 *.LOG
