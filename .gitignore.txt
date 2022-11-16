@@ -1,0 +1,8 @@
+
+*.SchDocPreview
+*.rar
+*build/
+
+*_Previews/
+
+*.LOG
