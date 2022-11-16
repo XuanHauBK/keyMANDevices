@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=DIO1 Old Footprint=DIO-SMD-106 New Footprint=DIO-SMD-123
+Added Component: Designator=DIO2(DIO-SMD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD5V Pin=DIO2-2
+Added Pin To Net: NetName=NetDIO2_1 Pin=DIO2-1
+Added Pin To Net: NetName=NetDIO2_1 Pin=USB1-1
+Added Net: Name=NetDIO2_1
+Added Member To Class: ClassName=keyMANDevices Member=Component DIO2 Diode SMD
+Added Room: Name=keyMANDevices
