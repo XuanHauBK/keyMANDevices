@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=PIN1- Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=ADC2_CH8 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=pin Pin=IC1-3
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=OUT+ Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=PIN1- Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R25-1
+Removed Pin From Net: NetName=ADC2_CH8 Pin=R26-2
+Removed Pin From Net: NetName=GND Pin=RL2-5
+Removed Pin From Net: NetName=ADC2_CH8 Pin=U2-10
+Removed Pin From Net: NetName=PIN1- Pin=U5-6
+Removed Pin From Net: NetName=PIN1- Pin=U6-2
+Removed Pin From Net: NetName=PIN1- Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U6-6
+Removed Pin From Net: NetName=GND Pin=U6-7
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=ADC2_CH8 Pin=U8-6
+Removed Pin From Net: NetName=ADC2_CH8 Pin=U9-2
+Removed Pin From Net: NetName=ADC2_CH8 Pin=U9-3
+Removed Pin From Net: NetName=GND Pin=U9-6
+Removed Pin From Net: NetName=GND Pin=U9-7
+Removed Pin From Net: NetName=GND Pin=U10-3
+Removed Pin From Net: NetName=GND Pin=U11-6
+Removed Pin From Net: NetName=GND Pin=U12-2
+Removed Pin From Net: NetName=GND Pin=U12-3
+Removed Pin From Net: NetName=GND Pin=U12-6
+Removed Pin From Net: NetName=GND Pin=U12-7
+Removed Member From Class: ClassName=keyMANDevices Member=C10
+Removed Member From Class: ClassName=keyMANDevices Member=C13
+Removed Member From Class: ClassName=keyMANDevices Member=C16
+Removed Member From Class: ClassName=keyMANDevices Member=IC1
+Removed Member From Class: ClassName=keyMANDevices Member=R12
+Removed Member From Class: ClassName=keyMANDevices Member=R13
+Removed Member From Class: ClassName=keyMANDevices Member=R18
+Removed Member From Class: ClassName=keyMANDevices Member=R19
+Removed Member From Class: ClassName=keyMANDevices Member=R25
+Removed Member From Class: ClassName=keyMANDevices Member=R26
+Removed Member From Class: ClassName=keyMANDevices Member=U5
+Removed Member From Class: ClassName=keyMANDevices Member=U6
+Removed Member From Class: ClassName=keyMANDevices Member=U8
+Removed Member From Class: ClassName=keyMANDevices Member=U9
+Removed Member From Class: ClassName=keyMANDevices Member=U11
+Removed Member From Class: ClassName=keyMANDevices Member=U12
+Change component parameters: Designator = "L1"; Footprint = "L-SMD-M-7.3x4.5"; UniqueID = "\HTUEENWY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/78477010.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "Nov.2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "1.0 µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "78477010"; VariantName = "[No Variations]"
+Added Component: Designator=DIO?(DIO-SMD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=QB?(SOT23D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "D718"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-SMD-0101)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-SMD-0101)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-SMD-0101)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PIN1- Pin=C11-2
+Added Pin To Net: NetName=PIN1- Pin=C12-2
+Added Pin To Net: NetName=ADC2_CH8 Pin=C14-2
+Added Pin To Net: NetName=ADC2_CH8 Pin=C15-2
+Added Pin To Net: NetName=VIN Pin=DIO?-2
+Added Pin To Net: NetName=GND Pin=QB?-3
+Added Pin To Net: NetName=PIN1- Pin=R17-1
+Added Pin To Net: NetName=ADC2_CH8 Pin=R24-1
+Added Pin To Net: NetName=ADC2_CH8 Pin=R?-1
+Added Pin To Net: NetName=pin Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=VIN Pin=RL2-5
+Added Pin To Net: NetName=PIN1- Pin=U7-3
+Added Pin To Net: NetName=ADC2_CH8 Pin=U10-3
+Change Net Name : Old Net Name=ADC2_CH8 New Net Name=VBat2-
+Change Net Name : Old Net Name=PIN1- New Net Name=VBat1-
+Added Pin To Net: NetName=ADC2_CH8 Pin=R?-1
+Added Pin To Net: NetName=ADC2_CH8 Pin=R?-2
+Added Pin To Net: NetName=ADC2_CH8 Pin=U2-10
+Added Net: Name=ADC2_CH8
+Added Pin To Net: NetName=NetDIO?_1 Pin=DIO?-1
+Added Pin To Net: NetName=NetDIO?_1 Pin=QB?-2
+Added Pin To Net: NetName=NetDIO?_1 Pin=RL2-4
+Added Net: Name=NetDIO?_1
+Added Pin To Net: NetName=NetQB?_1 Pin=QB?-1
+Added Pin To Net: NetName=NetQB?_1 Pin=R?-2
+Added Net: Name=NetQB?_1
+Added Member To Class: ClassName=keyMANDevices Member=Component DIO? Diode SMD
+Added Member To Class: ClassName=keyMANDevices Member=Component QB? 2SC5200
+Added Member To Class: ClassName=keyMANDevices Member=Component R? 1k
+Added Member To Class: ClassName=keyMANDevices Member=Component R? 1k
+Added Member To Class: ClassName=keyMANDevices Member=Component R? 3k
+Added Room: Name=keyMANDevices

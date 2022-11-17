@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C12 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Change Component Footprint: Designator=C15 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Change Component Footprint: Designator=C18 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Added Room: Name=keyMANDevices

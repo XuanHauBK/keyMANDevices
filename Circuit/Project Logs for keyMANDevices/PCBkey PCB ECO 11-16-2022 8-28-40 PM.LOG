@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C11 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Change Component Footprint: Designator=C14 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Change Component Footprint: Designator=C17 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Added Member To Class: ClassName=keyMANDevices Member=Component R27 1k
+Added Room: Name=keyMANDevices

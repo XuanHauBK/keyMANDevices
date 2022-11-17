@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R12 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R13 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R18 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Added Room: Name=keyMANDevices

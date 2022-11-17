@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=DIO? NewDesignator=DIO1
+Change Component Designator: OldDesignator=QB? NewDesignator=QB1
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Net Name : Old Net Name=NetDIO?_1 New Net Name=NetDIO1_1
+Change Net Name : Old Net Name=NetQB?_1 New Net Name=NetQB1_1
+Added Member To Class: ClassName=keyMANDevices Member=Component R12 3k
+Added Member To Class: ClassName=keyMANDevices Member=Component R13 1k
+Added Room: Name=keyMANDevices
