@@ -20,9 +20,10 @@ void read_rfid(){
     ID += c;
     }
     if (ID.length() > 20)
-     analysis_data();
+    analysis_data();
     
     delay(100);
+    
 }
 void reset_id() 
 { 
